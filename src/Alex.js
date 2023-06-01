@@ -7,6 +7,7 @@ import Portfolio from "./components/pages/portfolio";
 import Resume from "./components/pages/Resume";
 import NavTabs from "./components/NavTabs";
 import NotFound from "./components/pages/NotFound";
+import Footer from "./components/pages/footer";
 
 const App = () => {
   return (
@@ -14,12 +15,13 @@ const App = () => {
       <NavTabs />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/portfolio" element={<portfolio />} />
+        <Route path="/portfolio" element={<Portfolio />} />
         <Route path="/contact" element={<ContactMe />} />
         <Route path="/about" element={<About />} />
         <Route path="/resume" element={<Resume />} />
         <Route path="/*" element={<NotFound />} />
       </Routes>
+      <Footer />
     </BrowserRouter>
   );
 };

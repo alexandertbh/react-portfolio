@@ -3,20 +3,20 @@ import { Link } from "react-router-dom";
 
 function NavTabs() {
   return (
-    <ul>
-      <li>
+    <ul className="nav nav-tabs m-4">
+      <li className="nav-item px-4">
         <Link to="/">Home</Link>
       </li>
-      <li>
+      <li className="nav nav-tabs px-4">
         <Link to="/about">About Me</Link>
       </li>
-      <li>
+      <li className="nav nav-tabs px-4">
         <Link to="/contact">Contact</Link>
       </li>
-      <li>
+      <li className="nav nav-tabs px-4">
         <Link to="/portfolio">Portfolio</Link>
       </li>
-      <li>
+      <li className="nav nav-tabs px-4">
         <Link to="/resume">Resume</Link>
       </li>
     </ul>
