@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d238b575.css",
+    "main.js": "/static/js/main.389411bb.js",
+    "static/media/untitled shoot-May 28, 2023-06735.jpg": "/static/media/untitled shoot-May 28, 2023-06735.f7935d76fd5c92c5b3e3.jpg",
+    "static/media/untitled shoot-May 28, 2023-06628.jpg": "/static/media/untitled shoot-May 28, 2023-06628.2bf6116804b32550bea1.jpg",
+    "static/media/Screenshot 2023-05-30 at 1.44.25 PM.png": "/static/media/Screenshot 2023-05-30 at 1.44.25 PM.9ef77bceb82df6983663.png",
+    "static/media/Screenshot 2023-06-02 at 10.06.10 AM.png": "/static/media/Screenshot 2023-06-02 at 10.06.10 AM.13c6a5967374ca77b6cd.png",
+    "static/media/Copy of Copy of Alex Horning - Resume June 2021.pdf": "/static/media/Copy of Copy of Alex Horning - Resume June 2021.2f747d0d5d09c400f189.pdf",
+    "static/media/Screenshot 2023-05-02 at 7.12.41 PM (1).png": "/static/media/Screenshot 2023-05-02 at 7.12.41 PM (1).5475d980ab993200596c.png",
+    "static/media/Screenshot 2023-05-13 at 9.12.54 AM.png": "/static/media/Screenshot 2023-05-13 at 9.12.54 AM.37ca27ea1bde55a0becb.png",
+    "index.html": "/index.html",
+    "main.d238b575.css.map": "/static/css/main.d238b575.css.map",
+    "main.389411bb.js.map": "/static/js/main.389411bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d238b575.css",
+    "static/js/main.389411bb.js"
+  ]
+}
