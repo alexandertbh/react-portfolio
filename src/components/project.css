@@ -1,0 +1,19 @@
+#project-card{
+    border: 10px, black;
+    display: flex;
+    text-align: center;
+   
+}
+
+.project {
+    height:100px;
+    width: 100px;
+}
+
+#project{
+    border-style: solid;
+    margin:30px;
+    background-color: lightgray;
+    box-shadow: 10px 3px 10px rgb(0 0 0 / 0.2);
+
+}

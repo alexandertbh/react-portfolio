@@ -1,0 +1,18 @@
+
+section {
+    background-color: darkolivegreen;
+}
+
+img {
+    box-shadow: 10px 3px 10px rgb(0 0 0 / 0.2);
+    max-width: 150px;
+    height: auto;
+}
+
+#content {
+    padding: 30px;
+}
+
+h2 {
+    padding:20px
+}
