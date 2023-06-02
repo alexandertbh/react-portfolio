@@ -4,13 +4,11 @@ import "./home.css";
 
 export default function Home() {
   return (
-    <div
-      className=" d-flex flex-column text-center "
-      Style={{ backgroundImage: background }}
-      id="home"
-    >
-      <h1>Alex Horning</h1>
-      <p>Body with other Links</p>
+    <div className=" d-flex flex-column text-center" id="home">
+      <div className="bg-img bg-cover">
+        <h1>Alex Horning</h1>
+        <p>Body with other Links</p>
+      </div>
     </div>
   );
 }

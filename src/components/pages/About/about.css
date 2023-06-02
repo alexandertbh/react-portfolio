@@ -16,3 +16,7 @@ img {
 h2 {
     padding:20px
 }
+
+#about {
+    height: 80vh;
+}

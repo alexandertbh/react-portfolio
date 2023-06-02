@@ -4,7 +4,7 @@ import "./about.css";
 
 export default function About() {
   return (
-    <section className="d-flex flex-column text-center ">
+    <section className="d-flex flex-column text-center " id="about">
       <div className="justify-content-center">
         <h2>About Alex Horning</h2>
         <img src={image} className="w-25 rounded" />
