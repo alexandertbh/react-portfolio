@@ -11,7 +11,7 @@ export default function Projects({ projects }) {
             <img
               className="w-25 rounded project"
               src={project.image}
-              alt="Project"
+              alt="Project information from the home page"
             />
           </a>
         </li>
