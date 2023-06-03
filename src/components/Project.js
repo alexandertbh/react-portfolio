@@ -8,7 +8,7 @@ export default function Projects({ projects }) {
         <li className="col" id="project">
           <a href={project.link}>
             <h2>{project.title}</h2>
-            <img className="w-25 rounded project" src={project.image} />
+            <img className="w-25 rounded project" src={project.image} alt="Project Image"/>
           </a>
         </li>
       ))}

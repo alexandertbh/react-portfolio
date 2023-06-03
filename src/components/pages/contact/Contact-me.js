@@ -2,7 +2,7 @@ import React from "react";
 import "./contact.css";
 
 export default function ContactMe() {
-  const emailCheck = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/g;
+  // const emailCheck = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/g;
 
   return (
     <section className=" " id="contact">

@@ -1,4 +1,3 @@
-import react from "react";
 import image from "../../assets/untitled shoot-May 28, 2023-06735.jpg";
 import "./about.css";
 
@@ -7,7 +6,7 @@ export default function About() {
     <section className="d-flex flex-column text-center " id="about">
       <div className="justify-content-center">
         <h2>About Alex Horning</h2>
-        <img src={image} className="w-25 rounded" />
+        <img src={image} className="w-25 rounded" atl="portrait photo" />
         <p id="content">
           Born and raised in Seattle I spent most of my time playing basketball
           until I got to college where I got heavily invested in Student
