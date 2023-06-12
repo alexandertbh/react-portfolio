@@ -4,6 +4,7 @@ import project1 from "../../assets/Screenshot 2023-05-02 at 7.12.41 PM (1).png";
 import project2 from "../../assets/Screenshot 2023-05-13 at 9.12.54 AM.png";
 import project3 from "../../assets/Screenshot 2023-05-30 at 1.44.25 PM.png";
 import "./portfolio.css";
+import traderzPost from "../../assets/Screenshot 2023-06-12 at 11.11.48 AM.png";
 
 export default function Portfolio() {
   const projects = [
@@ -21,6 +22,11 @@ export default function Portfolio() {
       title: "Employee Tracker",
       link: "https://github.com/alexandertbh/Employee-Tracker",
       image: project3,
+    },
+    {
+      title: "TraderZ Post",
+      link: "https://github.com/Willlasbury/project-3-front",
+      image: traderzPost,
     },
   ];
   return (
